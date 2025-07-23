@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class test {
-
     static int countofpositive=0;
     static int countofnegative=0;
     static int countofzero=0;
